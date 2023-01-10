@@ -1,0 +1,8 @@
+.home-top_img, .s2_heading-color {
+   position: relative;
+   z-index: 2;
+}
+
+video{
+   position: relative;
+} 
